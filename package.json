@@ -1,6 +1,6 @@
-{
-	"author": "Sanja Vesic",
+{	
 	"name": "fcc-learn-npm-package-json",
+	"author": "Sanja Vesic",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
